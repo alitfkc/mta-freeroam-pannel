@@ -1,0 +1,8 @@
+<catalog type="weapon">
+    <group name="Diğer">
+		<weapon id="43" name="Kamera" />
+		<weapon id="14" name="Çiçek" />
+		<weapon id="5" name="Beyzbol Sopası" />
+		<weapon id="46" name="Paraşüt" />
+	</group>
+</catalog>

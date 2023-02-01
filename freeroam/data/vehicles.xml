@@ -1,0 +1,5 @@
+<catalog type="vehicle">
+	<group name="Ücretsiz Araçlar" />
+		<vehicle id="510" name="Bisiklet"/>
+		<vehicle id="471" name="ATV"/>
+</catalog>

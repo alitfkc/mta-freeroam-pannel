@@ -1,0 +1,9 @@
+<catalog type="interior">
+	<interior name="Tramvaycılık" posX="-2271.38037" posY="533.15851" posZ="35.0156" world="0"/>
+	<interior name="Pizzacılık" posX="-2333.83228" posY="-169.28676" posZ="35.3156" world="0"/>
+	<interior name="Odunculuk" posX="-1942.95825" posY="-2425.53760" posZ="30.3156" world="0"/>
+	<interior name="Çiftçilik" posX="-104.20856" posY="13.57386" posZ="3.11" world="0"/>
+	<interior name="Çekicilik" posX="1060.64685" posY="1240.22302" posZ="10.82748" world="0"/>
+	<interior name="Kuryelik" posX="1802.78540" posY="-1577.17847" posZ="13.40959" world="0"/>
+	<interior name="Otobüscülük" posX="2797.68311" posY="1258.74182" posZ="10.75000" world="0"/>
+</catalog>

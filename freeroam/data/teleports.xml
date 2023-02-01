@@ -1,0 +1,12 @@
+<catalog type="interior">
+	<interior adi="Spawn" bolge="LV" posX="2286.61353" posY="618.28986" posZ="10.88281" world="0"/>
+	<interior adi="Banka" bolge="LV" posX="2179.31152" posY="1968.81213" posZ=" 10.84844" world="0"/> <!-- world=dimens-->
+	<interior adi="Meta Casino" bolge="Lv" posX="2158.93555" posY="2155.89575" posZ="10.67188 " world="0"/>
+	<interior adi="Boyacı" bolge="LV" posX=" 1951.33923" posY=" 2163.57080," posZ="10.67188 " world="0"/>
+	<interior adi="Meta Galeri" bolge="SF" posX="-1980.15027" posY="293.93433" posZ="35.82031 " world="0"/>
+	<interior adi="Tuning" bolge="SF" posX="-1935.81580," posY="224.48145" posZ=" 34.15625 " world="0"/>
+	<interior adi="Boyacı" bolge="SF" posX="-1897.49194" posY=" 256.81815" posZ="41.04688 " world="0"/>
+	<interior adi="2.El Pazarı'" bolge="SF" posX=" -2019.89111" posY="145.20512" posZ="28.39731" world="0"/>
+	<interior adi="Banka" bolge="LS" posX="2383.65576" posY="-1924.93958" posZ="13.38281" world="0"/>
+	<interior adi="Spawn" bolge="LV" posX="2286.61353" posY="618.28986" posZ="10.88281" world="0"/>
+</catalog>
